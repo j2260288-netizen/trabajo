@@ -1,0 +1,6 @@
+{
+  "name": "SmartDesk",
+  "description": "Interfaz táctil futurista y prémium para mesa inteligente IPS LCD con widget multimedia, dibujo, teclado gestual y control ambiental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
